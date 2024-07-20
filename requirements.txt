@@ -1,0 +1,7 @@
+numpy
+networkx
+keras
+scikit-learn
+spektral
+tensorflow
+matplotlib
