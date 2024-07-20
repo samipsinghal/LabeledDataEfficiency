@@ -2,6 +2,10 @@
 
 This repository contains the implementation of a project focusing on improving labeled data efficiency using Graph Convolutional Networks (GCN) and Feedforward Neural Networks (FNN).
 
+White Paper
+
+For an in-depth understanding of the methodologies and results, please refer to the white paper: High Prediction Accuracy with Limited Labeled Data by Samipkumar A. Singhal [https://drive.google.com/drive/u/0/home]
+
 ## Overview
 
 The goal of this project is to achieve accurate predictions with limited labeled data by leveraging the power of Graph Convolutional Networks (GCN) and Feedforward Neural Networks (FNN). The notebook includes steps to preprocess the data, implement the GCN and FNN models, and evaluate their performance. The results demonstrate how these models can effectively handle tasks with limited labeled data.
