@@ -4,7 +4,7 @@ This repository contains the implementation of a project focusing on improving l
 
 White Paper
 
-For an in-depth understanding of the methodologies and results, please refer to the white paper: High Prediction Accuracy with Limited Labeled Data by Samipkumar A. Singhal [https://drive.google.com/file/d/1Zd3a_8eDKri2rqeI77FV1ze7A11k06ms/view?usp=sharing]
+For an in-depth understanding of the methodologies and results, please refer to the white paper: High Prediction Accuracy with Limited Labeled Data by Samipkumar A. Singhal [https://tinyurl.com/HighPredictionAccuracy]
 
 ## Overview
 
